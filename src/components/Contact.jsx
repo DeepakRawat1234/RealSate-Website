@@ -46,13 +46,13 @@ const Contact = () => {
         Your Email 
         <input type="text" placeholder='Your Email' required className='w-full border border-gray-300 rounded py-3 px-4 mt-2' name='Email' />
         </div>
-        <div className='w-full md:w-1/2 text-left '>
+        <div className='w-full md:w-1/2 text-left mt-2 '>
        Phone Number
         <input type="text" placeholder='Phone' required className='w-full border border-gray-300 rounded py-3 px-4 mt-2' name='Number'  />
         
         </div>
-        <div className='w-full md:w-1/2 text-left md:pl-4 '>
-       Phone Number
+        <div className='w-full md:w-1/2 text-left md:pl-4 mt-2 '>
+       State
         <input type="text" placeholder='State' required className='w-full border border-gray-300 rounded py-3 px-4 mt-2' name='State'  />
         
         </div>
